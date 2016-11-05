@@ -20,12 +20,12 @@
         "source": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
-    },
-    {
         "merged": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -104,12 +104,12 @@
         "source": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
