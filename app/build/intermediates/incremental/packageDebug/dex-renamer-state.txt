@@ -1,7 +1,7 @@
-#Sat Oct 29 22:55:38 CEST 2016
-base.0=/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6fd9cbbfa3d00d08ae05ff84bb8ab537c8f8010f
+#Sat Nov 05 20:01:19 CET 2016
+base.0=/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b82d6e50f767c5654cf6f235e845722a02e976e3
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9fb393b94ed29dc90fdc888e4ee735d7dc97d472/classes.dex
-base.1=/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9fb393b94ed29dc90fdc888e4ee735d7dc97d472
-file.0=/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6fd9cbbfa3d00d08ae05ff84bb8ab537c8f8010f/classes.dex
+file.1=/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad340e4ab3d18e9ed8dabbaa4e3a406bebc7842e/classes.dex
+base.1=/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad340e4ab3d18e9ed8dabbaa4e3a406bebc7842e
+file.0=/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b82d6e50f767c5654cf6f235e845722a02e976e3/classes.dex

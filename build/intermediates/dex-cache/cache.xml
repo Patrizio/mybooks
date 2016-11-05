@@ -3,30 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d7a39e51ce61f28bdaecfea22524b9e5bb55668b/classes.dex" />
+        sha1="9156b0d094a0dcaefbcaabea5992c3cd6d89277a">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b82d6e50f767c5654cf6f235e845722a02e976e3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_ff908f002128e549c762f613e6cb681b97f6bc0c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4b9d402be0ff9e482dec094e2886e67c12d1f3f9/classes.dex" />
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a75f4f75a87a6caa287625940740fab02e3338ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_f0cca2d05f854ca399d71e668e8ed86efe276797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_6044791dd13ca5839d6c25e4b87f1a3e2d51d5d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_8103561dfa6013c0c96086343a2302c960469e34/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,187 +53,169 @@
         optimize="true"
         revision="25.0.0"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_76f2539351c8a78a74acd79b121fe221326fbef3/classes.dex" />
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_76f2539351c8a78a74acd79b121fe221326fbef3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_424dbebaae0390bfe541225fe38fa9d1dc840ae1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_4ed865bde970b55873e8d676187fa3b0050b48bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_0717047844eb4e6d714750a703d65ffe07e16ce4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_1542e345821af252d47abddff15feecc008d3394/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_87189cdcc3c1de99d599482dc32318891e2f079e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_5ce41a58baaa863c29911fb6a27dcce6d4b2931c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_46435595cbddd59864cd2eff3e021cd2beeb24ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_e81a8c7f49b4032b48b4b75054ac7019fdbdafc0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a232bc9a471c6143cc6e1232d338b287b6041978/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_f879cd69d021debd523365c982270f7a418eea74/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3c1cfdca5211cfba0b5638bf367775899722a75e">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9fb393b94ed29dc90fdc888e4ee735d7dc97d472/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_c9475d3e5ed3acc922a2fd6423c8bb52146f6511/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_69c6be668c80badf86c3ae0d54e76c957d889b0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_15633c578bbd7bbfcb166a3a7f65dfc1498d7ff9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3c134d179dbe8e745fc19c97cd2b2af7b39ff54f/classes.dex" />
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a2b8150c41d50def68528777c45bd68fa66b92e6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="aef8927b716a363347112d1d34d0dcb41003d3cb">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6fd9cbbfa3d00d08ae05ff84bb8ab537c8f8010f/classes.dex" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_221f356facb05c709d09f8c75ee3e2c9032384a0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d1e96e970d7a6451240d6654cc043465ffb133f0/classes.dex" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_7916ea575317f4518d9d75019c5496b9c0bcc56d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_4c506235a39aa9af24a7553d7b25623923b13075/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_db709662989ff31a17ae3f8a631b711fc627460e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_52e7a9c471aea8815e0378405d7833a3cc4d5e8d/classes.dex" />
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0deeabc76d0d4e29974b4f3d4f510f7efe042476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e22706a39f010b4acebc1a219e99e1f2a5dc04d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0e3deea00fdde89a00bed4c7f21e0252dbf591c">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad340e4ab3d18e9ed8dabbaa4e3a406bebc7842e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1e3287a84a6f488d34818f30f030d2ab2ed36e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_5fcf019e0a8c3a9585ae88daeaf4b59cd4966fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_fce2559f2d135b09f0a243df607f64a0bbd2e958/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_7eed743f9dcbb6bc4dfbd437af310e5d5097ed2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_d7f9b68366527b7925df8fe5562b3860b3b9e2f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_ccac1d50c0cbe7c8adb74f823d7719a9a47e0119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_38861b29669776735bd637dc8a6fddf9f33f209c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_5c150ff9893f7d847e7bdfb98c13ae23df41f01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_634f28e63dbdb23bf77e499ee73ad8f0c5626aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_f5d35726798e29b33c5d6fb0df8aaa501de83714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_97a45bf48d261e126e1191c40aaa5ad0e53e4e23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_900e2e2c684c3d64266228cce6016c19c574f97d/classes.dex" />
     </item>
 
 </items>

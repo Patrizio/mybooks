@@ -5,25 +5,25 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="473253909641734"
+    timestamp="1935042185857"
     token="-3033556329705360915"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="820" />
+        duration="2340" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="320" />
+        duration="760" />
     <task
         name="verifier"
-        duration="56" />
+        duration="90" />
 
     <artifact
-        location="/Users/patrickbeeker/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/outputs/apk/app-debug.apk"
+        location="/Users/patrickbeeker/AndroidStudioProjects/mybooks/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
