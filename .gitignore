@@ -10,3 +10,12 @@ build/
 # Intellij
 *.iml
 .idea/
+
+# Other stuff do disregard
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
